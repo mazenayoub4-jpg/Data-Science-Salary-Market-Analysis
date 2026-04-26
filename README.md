@@ -24,7 +24,6 @@
 ​YoY_Compensation_Variance: Tracking year-over-year growth in data science roles.
 
 ### Salary_Status = 
-```dax
 VAR AvgSalary = [Global_Mean_Compensation_USD]
 VAR Target = 150000 -- Global Baseline
 RETURN 
